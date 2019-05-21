@@ -1,0 +1,9 @@
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\bin\Debug\netstandard2.0\prmToolkit.Mapper.deps.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\bin\Debug\netstandard2.0\prmToolkit.Mapper.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\bin\Debug\netstandard2.0\prmToolkit.Mapper.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.csprojAssemblyReference.cache

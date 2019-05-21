@@ -1,0 +1,17 @@
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.Test.deps.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.Test.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.Test.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.Test.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.Test.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\bin\Release\netcoreapp2.2\prmToolkit.Mapper.pdb
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.csproj.CopyComplete
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.dll
+C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Test\obj\Release\netcoreapp2.2\prmToolkit.Mapper.Test.pdb

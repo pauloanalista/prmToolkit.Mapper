@@ -999,9 +999,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
-      "projectName": "prmToolkit.Mapper",
-      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.Core.csproj",
+      "projectName": "prmToolkit.Mapper.Core",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.Core.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\obj\\",
       "projectStyle": "PackageReference",

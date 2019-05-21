@@ -1750,9 +1750,9 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "prmToolkit.Mapper/1.0.0": {
+      "prmToolkit.Mapper/1.0.1": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
+        "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "System.Runtime.Caching": "4.5.0"
         },
@@ -6065,10 +6065,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "prmToolkit.Mapper/1.0.0": {
+    "prmToolkit.Mapper/1.0.1": {
       "type": "project",
-      "path": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj",
-      "msbuildProject": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj"
+      "path": "../prmToolkit.Mapper.Standard/prmToolkit.Mapper.csproj",
+      "msbuildProject": "../prmToolkit.Mapper.Standard/prmToolkit.Mapper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6077,7 +6077,7 @@
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
       "nunit >= 3.11.0",
-      "prmToolkit.Mapper >= 1.0.0"
+      "prmToolkit.Mapper >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -6111,8 +6111,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
+            "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Standard\\prmToolkit.Mapper.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Standard\\prmToolkit.Mapper.csproj"
             }
           }
         }
