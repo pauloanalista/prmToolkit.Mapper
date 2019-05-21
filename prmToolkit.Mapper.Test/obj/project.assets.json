@@ -6067,8 +6067,8 @@
     },
     "prmToolkit.Mapper/1.0.1": {
       "type": "project",
-      "path": "../prmToolkit.Mapper.Standard/prmToolkit.Mapper.csproj",
-      "msbuildProject": "../prmToolkit.Mapper.Standard/prmToolkit.Mapper.csproj"
+      "path": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj",
+      "msbuildProject": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6111,8 +6111,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Standard\\prmToolkit.Mapper.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Standard\\prmToolkit.Mapper.csproj"
+            "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
             }
           }
         }

@@ -1,9 +1,0 @@
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.csprojAssemblyReference.cache
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.csproj.CoreCompileInputs.cache
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.AssemblyInfoInputs.cache
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.AssemblyInfo.cs
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.deps.json
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.dll
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.pdb
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.dll
-C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.pdb

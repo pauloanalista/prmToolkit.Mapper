@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prmToolkit.Mapper.Test", "prmToolkit.Mapper.Test\prmToolkit.Mapper.Test.csproj", "{039AA71A-73D8-4623-85DE-436F597B6ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prmToolkit.Mapper", "prmToolkit.Mapper.Standard\prmToolkit.Mapper.csproj", "{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prmToolkit.Mapper", "prmToolkit.Mapper\prmToolkit.Mapper.csproj", "{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
