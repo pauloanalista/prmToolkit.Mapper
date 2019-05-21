@@ -27,9 +27,6 @@ Suporte em trabalhar e converter datareader ou datatable em coleções C#.
 
 ### Tests
 
-
-##### Objects
-
 | Objetos                              | Média  | Mínimo      | Máximo      | Repetições |
 |--------------------------------------------|----------|----------|----------|---------------|
 | 1 novo item                                 | 0.004ms  | 0.004ms  | 0.02ms   | 500           |
