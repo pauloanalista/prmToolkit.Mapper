@@ -1,5 +1,5 @@
 # prmToolkit.Mapper
-Suporte em trabalhar e converter datareader ou datatable em coleções C#.
+Suporte em trabalhar e converter datareader ou datatable em List no C#.
 
 ### Como usar
 
