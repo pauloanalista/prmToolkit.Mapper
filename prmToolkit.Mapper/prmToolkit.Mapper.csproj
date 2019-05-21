@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <PackageTags>paulorogerio, prmToolkit, objectmapper, mapper, map, draw, parser</PackageTags>
+    <PackageIconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;amp;d=mm&amp;amp;r=g</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.Mapper</PackageProjectUrl>
+    <Description>Suporte em trabalhar e converter datareader ou datatable em coleções C#</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Runtime.Caching" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prmToolkit.Mapper", "prmToolkit.Mapper\prmToolkit.Mapper.csproj", "{156E69DC-1A2F-4A92-B246-364F1CA78B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prmToolkit.Mapper.Test", "prmToolkit.Mapper.Test\prmToolkit.Mapper.Test.csproj", "{039AA71A-73D8-4623-85DE-436F597B6ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156E69DC-1A2F-4A92-B246-364F1CA78B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156E69DC-1A2F-4A92-B246-364F1CA78B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156E69DC-1A2F-4A92-B246-364F1CA78B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156E69DC-1A2F-4A92-B246-364F1CA78B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039AA71A-73D8-4623-85DE-436F597B6ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039AA71A-73D8-4623-85DE-436F597B6ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039AA71A-73D8-4623-85DE-436F597B6ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039AA71A-73D8-4623-85DE-436F597B6ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CF9AE4-BC64-44D3-86CB-01E9FE2B898C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.csprojAssemblyReference.cache
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.AssemblyInfo.cs
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.deps.json
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.runtimeconfig.json
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.runtimeconfig.dev.json
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.dll
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.pdb
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.dll
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\bin\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.pdb
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.csproj.CopyComplete
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.dll
+C:\_QSTI\_TFS\prmToolkit.ObjectMapper\prmToolkit.ObjectMapper.Test\obj\Debug\netcoreapp2.2\prmToolkit.ObjectMapper.Test.pdb
