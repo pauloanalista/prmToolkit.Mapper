@@ -1,6 +1,15 @@
 # prmToolkit.Mapper
 Suporte em trabalhar e converter datareader ou datatable em List no C#.
 
+### Installation - prmToolkit.Mapper
+
+Para instalar, abra o prompt de comando Package Manager Console do seu Visual Studio e digite o comando abaixo:
+
+Para adicionar somente a referencia da dll
+```sh
+Install-Package prmToolkit.Mapper
+```
+
 ### Como usar
 
 **Linha para o objeto**  
