@@ -46,3 +46,12 @@ Install-Package prmToolkit.Mapper
 | 1 item existente                            | 0.004ms  | 0.0039ms | 0.02ms   | 500           |
 | 1 item existente com Callback (chamada de retorno)              | 0.004ms  | 0.0039ms | 0.03ms   | 500           |
 | 1 item existente sem sobrescrever propriedade | 0.007ms  | 0.006ms  | 0.03ms   | 500           |
+
+
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
