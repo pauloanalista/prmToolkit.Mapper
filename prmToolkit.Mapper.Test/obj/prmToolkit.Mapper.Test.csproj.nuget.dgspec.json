@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj": {}
+    "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj": {
+    "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
         "projectName": "prmToolkit.Mapper.Test",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,9 +30,10 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
-                "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
+              "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
+                "projectPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
               }
             }
           }
@@ -45,6 +46,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -66,21 +68,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
+      "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
         "projectName": "prmToolkit.Mapper",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -90,7 +98,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -98,7 +106,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -109,12 +118,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
-            "Microsoft.NETCore.App": {
+            "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             },
             "System.Runtime.Caching": {
@@ -123,10 +133,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

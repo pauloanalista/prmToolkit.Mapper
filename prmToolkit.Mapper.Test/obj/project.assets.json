@@ -1750,7 +1750,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "prmToolkit.Mapper/1.0.1": {
+      "prmToolkit.Mapper/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -6065,7 +6065,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "prmToolkit.Mapper/1.0.1": {
+    "prmToolkit.Mapper/1.0.2": {
       "type": "project",
       "path": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj",
       "msbuildProject": "../prmToolkit.Mapper/prmToolkit.Mapper.csproj"
@@ -6077,7 +6077,7 @@
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
       "nunit >= 3.11.0",
-      "prmToolkit.Mapper >= 1.0.1"
+      "prmToolkit.Mapper >= 1.0.2"
     ]
   },
   "packageFolders": {
@@ -6087,11 +6087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
       "projectName": "prmToolkit.Mapper.Test",
-      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\prmToolkit.Mapper.Test.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6110,9 +6110,10 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
+            "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj"
             }
           }
         }
@@ -6125,6 +6126,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -6146,10 +6148,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

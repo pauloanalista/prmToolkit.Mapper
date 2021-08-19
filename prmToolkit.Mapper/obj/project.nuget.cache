@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cdrr5nkqB5w8e/j5T69nRK3yFqZQ3ifBa1AHvXwNKQX70ADbY1Ud+pjKHAMhVDETMR49UW4JFuFeVF2SFFioFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo\\Documents\\Downloads\\prmToolkit.Mapper\\prmToolkit.Mapper\\prmToolkit.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.runtime.caching\\4.5.0\\system.runtime.caching.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

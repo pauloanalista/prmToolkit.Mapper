@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>prmToolkit.Mapper</id>
+    <version>1.0.2</version>
+    <authors>prmToolkit.Mapper</authors>
+    <projectUrl>https://github.com/pauloanalista/prmToolkit.Mapper</projectUrl>
+    <iconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;amp;amp;d=mm&amp;amp;amp;r=g</iconUrl>
+    <description>Suporte em trabalhar e converter datareader ou datatable em coleções C#</description>
+    <copyright>Paulo Rogério</copyright>
+    <tags>paulorogerio, prmToolkit, objectmapper, mapper, map, draw, parser, automapper, collection</tags>
+    <repository url="https://github.com/pauloanalista/prmToolkit.Mapper.git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Runtime.Caching" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\bin\Debug\netstandard2.0\prmToolkit.Mapper.dll" target="lib\netstandard2.0\prmToolkit.Mapper.dll" />
+  </files>
+</package>

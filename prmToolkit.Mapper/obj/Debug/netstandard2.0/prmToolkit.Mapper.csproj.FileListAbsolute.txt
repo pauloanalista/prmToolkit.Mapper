@@ -7,3 +7,13 @@ C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\bin
 C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.dll
 C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.pdb
 C:\Users\Paulo\Documents\GitHub\prmToolkit.Mapper\prmToolkit.Mapper.Standard\obj\Debug\netstandard2.0\prmToolkit.Mapper.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\bin\Debug\netstandard2.0\prmToolkit.Mapper.deps.json
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\bin\Debug\netstandard2.0\prmToolkit.Mapper.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\bin\Debug\netstandard2.0\prmToolkit.Mapper.pdb
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper\obj\Debug\netstandard2.0\prmToolkit.Mapper.pdb

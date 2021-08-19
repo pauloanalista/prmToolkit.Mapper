@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>prmToolkit.Mapper</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>prmToolkit.Mapper</Authors>
+    <Product>prmToolkit.Mapper</Product>
+    <Description>Suporte em trabalhar e converter datareader ou datatable em coleções C#</Description>
+    <Copyright>Paulo Rogério</Copyright>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.Mapper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pauloanalista/prmToolkit.Mapper.git</RepositoryUrl>
+    <PackageTags>paulorogerio, prmToolkit, objectmapper, mapper, map, draw, parser, automapper, collection</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Runtime.Caching" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>

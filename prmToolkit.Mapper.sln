@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prmToolkit.Mapper.Test", "prmToolkit.Mapper.Test\prmToolkit.Mapper.Test.csproj", "{039AA71A-73D8-4623-85DE-436F597B6ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prmToolkit.Mapper", "prmToolkit.Mapper\prmToolkit.Mapper.csproj", "{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prmToolkit.Mapper", "prmToolkit.Mapper\prmToolkit.Mapper.csproj", "{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prmToolkit.Mapper.Net50", "prmToolkit.Mapper.Net50\prmToolkit.Mapper.Net50.csproj", "{7552FABD-8145-4F0E-AC46-FA99A9EADD19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBBBDECC-F851-4CEC-86D0-C58E68F0B4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7552FABD-8145-4F0E-AC46-FA99A9EADD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7552FABD-8145-4F0E-AC46-FA99A9EADD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7552FABD-8145-4F0E-AC46-FA99A9EADD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7552FABD-8145-4F0E-AC46-FA99A9EADD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

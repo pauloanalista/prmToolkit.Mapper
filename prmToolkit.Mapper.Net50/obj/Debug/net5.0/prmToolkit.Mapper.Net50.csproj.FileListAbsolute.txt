@@ -1,0 +1,12 @@
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\bin\Debug\net5.0\prmToolkit.Mapper.Net50.deps.json
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\bin\Debug\net5.0\prmToolkit.Mapper.Net50.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\bin\Debug\net5.0\ref\prmToolkit.Mapper.Net50.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\bin\Debug\net5.0\prmToolkit.Mapper.Net50.pdb
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\ref\prmToolkit.Mapper.Net50.dll
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.pdb
+C:\Users\Paulo\Documents\Downloads\prmToolkit.Mapper\prmToolkit.Mapper.Net50\obj\Debug\net5.0\prmToolkit.Mapper.Net50.csproj.AssemblyReference.cache

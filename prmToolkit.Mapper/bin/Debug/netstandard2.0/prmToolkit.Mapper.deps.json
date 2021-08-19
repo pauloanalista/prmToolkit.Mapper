@@ -1,13 +1,13 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "6f2b6d0c1c66c24c3c71a373e82a905b9855e09d"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "prmToolkit.Mapper/1.0.0": {
+      "prmToolkit.Mapper/1.0.2": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "System.Runtime.Caching": "4.5.0"
@@ -33,7 +33,7 @@
     }
   },
   "libraries": {
-    "prmToolkit.Mapper/1.0.0": {
+    "prmToolkit.Mapper/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
